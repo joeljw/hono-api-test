@@ -1,0 +1,5 @@
+name = "hono-api"
+main = "src/index.ts"
+compatibility_date = "2022-12-11"
+workers_dev = true
+account_id = "0eb989ad4237d90e01b5c954c45f3c8d"
